@@ -1,0 +1,17 @@
+**/output/
+
+**/logs/
+**/log/
+**/point_cloud/
+
+**/__pycache__/
+
+*.jpg
+*.png
+*.mp4
+*.pth
+*.cpp
+
+*.frag
+*.ply
+*.pt

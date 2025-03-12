@@ -1,0 +1,2 @@
+python gui_train.py --eval --config configs/vivo/default.json --model_path log/vivotest --source_path /data/Condense_v2/scenes/A1/ --test_iterations 1000
+#python test.py --eval --skip_train --valloader vivo --config configs/vivo/default.json --test_iteration 30000 --model_path log/vivotest --source_path /data/Condense_v2/scenes/A1/
